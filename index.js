@@ -24,5 +24,5 @@ let Calculator = {
 };
 
 function actionApplyer(integer, array) {
-  
+
 }
