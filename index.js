@@ -27,7 +27,7 @@ function actionApplyer(integer, array) {
   if (array.length === 0) {
     return integer
   } else {
-    function {
+    function() {
       let result = (integer*2) + 1000
       minus = result - 4
       return result%minus
