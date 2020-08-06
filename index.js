@@ -24,7 +24,7 @@ let Calculator = {
 };
 
 function actionApplyer(integer, array) {
-  if (array === nil) {
+  if (array.length === 0) {
     return integer
   }
 }
