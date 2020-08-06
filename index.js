@@ -29,6 +29,8 @@ function actionApplyer(integer, array) {
   } else {
     function {
       let result = (integer*2) + 1000
+      minus = result - 4
+      return result%minus
     }
   }
 }
