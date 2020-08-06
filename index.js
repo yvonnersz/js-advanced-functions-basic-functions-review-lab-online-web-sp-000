@@ -26,7 +26,7 @@ let Calculator = {
 function actionApplyer(integer, array) {
   if (array.length === 0) {
     return integer
-  } else if (array.length === 13) {
+  } else {
     return 4
   }
 }
