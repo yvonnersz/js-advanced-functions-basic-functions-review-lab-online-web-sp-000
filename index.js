@@ -27,6 +27,8 @@ function actionApplyer(integer, array) {
   if (array.length === 0) {
     return integer
   } else {
-    return 4
+    function() {
+      return (integer*2)+1000/7
+    }
   }
 }
