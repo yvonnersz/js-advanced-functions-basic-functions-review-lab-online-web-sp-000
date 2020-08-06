@@ -15,3 +15,5 @@ function wrapAdjective(string="*") {
 }
 
 wrapAdjective()("a dedicated programmer");
+
+let Calculator = {};
