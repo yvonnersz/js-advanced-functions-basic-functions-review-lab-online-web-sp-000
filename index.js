@@ -30,6 +30,5 @@ function actionApplyer(integer, array) {
     function {
       let result = (integer*2) + 1000
     }
-    (13*2) + 1000 = result
   }
 }
